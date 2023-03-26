@@ -172,3 +172,23 @@ for i in range(n):
     
 #     print()
 '''
+
+
+'''
+#name triangle
+
+# P
+# RI
+# YAN
+# SHPR
+# IYANS
+# s=input("enter strirng to be printed")
+# n=int(input("enter rows"))
+# x=0
+# l=len(s)
+# for i in range(n):
+#     for j in range(i+1):
+#         print(s[x%l],end="")
+#         x+=1
+#     print()
+'''
